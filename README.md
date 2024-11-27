@@ -1,7 +1,5 @@
 # TiktokScraper
-
-##### Project Title
-Analyze the sentiment of TikTok Posts and Users’ Comments with Hashtags Related to Covid-19
+*Project Title*: Analyze the sentiment of TikTok Posts and Users’ Comments with Hashtags Related to Covid-19
 
 This TikTok Scraper was developed as part of my project for the Seminar on Management Topics (I) course at NYCU, designed to collect and analyze 2.35 million posts and user comments related to COVID-19 using the Apify API.
 
