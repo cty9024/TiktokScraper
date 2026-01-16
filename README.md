@@ -5,7 +5,7 @@ This TikTok Scraper was developed as part of my project for the Seminar on Manag
 
 ## Advisor and Authors
 * **Advisor**: Prof. Chien-Yi, Hsiang
-* **Authors**: Ting-Yun, Chen, Yi-Yzu, Yao, Chen-Hsuan, Lee, Ying-Yu, Chen
+* **Authors**: Ting-Yun Chen, Yi-Yzu Yao, Chen-Hsuan Lee, Ying-Yu Chen
 
 ## Overview
 This project explores the sentiment of TikTok users during the COVID-19 pandemic. We analyzed data from posts and comments under hashtags related to the outbreak using Natural Language Processing (NLP) and VADER sentiment analysis. By examining public emotions from 2019 to 2023, our study highlights trends in user sentiment and provides insights into how people expressed themselves during this global event.
